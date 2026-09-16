@@ -1,4 +1,4 @@
-# Expense Tracker
+# Personal Expense Tracker
 
 A simple command-line application made in Java to help keep track of daily expenses.
 
