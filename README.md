@@ -50,26 +50,7 @@ There is also a budget warning. When spending reaches 80% of the monthly budget,
 
 No Maven, Gradle or external JAR files are required.
 
-## How the code is organized
 
-```text
-src/com/vityarthi/expensetracker/
-├── Main.java              entry point and login/register menu
-├── model/                 User, Expense, Category
-├── service/               AuthService, ExpenseService, ReportService
-├── storage/               CsvStorage, DataStore
-├── ui/                    MainMenu
-├── util/                  ConsoleIO, Logger, ValidationException
-└── test/                  TestRunner
-```
-
-The project is divided into four main layers.
-
-The UI/menu handles what the user sees and enters. The service classes handle the main application logic. The storage classes handle the CSV files, and the model classes represent the data.
-
-The menus do not directly open files, and the service classes do not directly read keyboard input. At first, this felt like extra work for a small project, but it made testing much easier. For example, `ReportService` can be tested without needing to enter anything through the keyboard or create actual files.
-
-There are fourteen Java files in total.
 
 ## Running it in VS Code
 
