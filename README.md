@@ -208,10 +208,11 @@ The storage part of the project is already separated from the rest of the applic
 
 ## Screenshots
 
-Screenshots can be added to a `screenshots/` folder.
 
-The three most useful screenshots would be:
+<img width="693" height="379" alt="Screenshot 2026-09-16 183718" src="https://github.com/user-attachments/assets/36f9d01a-e7cb-45f7-9918-e6797c8c9d5b" />
+<img width="733" height="395" alt="Screenshot 2026-09-16 183733" src="https://github.com/user-attachments/assets/9dec745a-020a-499f-8475-b10b403d03ad" />
+<img width="733" height="395" alt="Screenshot 2026-09-16 183733" src="https://github.com/user-attachments/assets/6c9fe5ac-5d8e-45ee-9441-f27dba121c1a" />
 
-1. Registration/login screen
-2. Adding an expense
-3. Reports screen
+
+
+
