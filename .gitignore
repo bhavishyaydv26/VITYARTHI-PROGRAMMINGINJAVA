@@ -1,0 +1,19 @@
+# Compiled output
+out/
+*.class
+
+# Runtime data (local to each user, not part of the source)
+data/
+test-data/
+
+# Editor
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build helpers
+sources.txt
