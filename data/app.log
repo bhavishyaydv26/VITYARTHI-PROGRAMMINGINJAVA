@@ -1,0 +1,25 @@
+2026-09-16 14:24:24 [INFO] Loaded 0 users and 0 expenses (0 corrupt rows skipped)
+2026-09-16 14:24:37 [WARN] Failed login attempt for: bhavi
+2026-09-16 14:25:01 [INFO] Registered new user: rao
+2026-09-16 14:25:15 [INFO] Login success: rao
+2026-09-16 14:25:56 [INFO] Added expense #1 for rao
+2026-09-16 14:26:44 [INFO] Added expense #2 for rao
+2026-09-16 14:27:09 [INFO] Added expense #3 for rao
+2026-09-16 14:27:53 [INFO] Added expense #4 for rao
+2026-09-16 14:28:16 [INFO] Added expense #5 for rao
+2026-09-16 14:28:47 [INFO] Added expense #6 for rao
+2026-09-16 14:30:16 [INFO] Updated expense #6
+2026-09-16 14:30:35 [INFO] Deleted expense #3
+2026-09-16 14:31:21 [INFO] Budget updated for rao to 500000.0
+2026-09-16 14:31:27 [INFO] Logout: rao
+2026-09-16 14:31:33 [INFO] Application closed
+2026-09-16 14:36:35 [INFO] Loaded 1 users and 5 expenses (0 corrupt rows skipped)
+2026-09-16 15:09:37 [INFO] Application closed
+2026-09-16 18:26:44 [INFO] Loaded 1 users and 5 expenses (0 corrupt rows skipped)
+2026-09-16 18:27:05 [INFO] Registered new user: yay
+2026-09-16 18:27:16 [WARN] Failed login attempt for: yay
+2026-09-16 18:27:29 [INFO] Login success: yay
+2026-09-16 18:28:40 [INFO] Added expense #7 for yay
+2026-09-16 18:29:15 [INFO] Added expense #8 for yay
+2026-09-16 18:45:48 [INFO] Logout: yay
+2026-09-16 18:45:51 [INFO] Application closed
